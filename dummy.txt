@@ -1,0 +1,1 @@
+dummy.txt file to be not added in the docker image
